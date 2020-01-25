@@ -1,2 +1,2 @@
 # SI507
-Python programming
+Python programming projects
